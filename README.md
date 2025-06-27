@@ -25,7 +25,6 @@ Welcome to my Github Profile !!
 
 
 ## 👩🏻‍💻 Coding Activity
-<img alt="my languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaReddy-150&layout=compact&theme=dracula"/> 
 <img alt="my activity" src="https://github-readme-stats.vercel.app/api?username=ShreyaReddy-150&show_icons=true&theme=dracula"/>
 
 
